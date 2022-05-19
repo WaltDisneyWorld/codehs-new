@@ -1,7 +1,0 @@
-function start(){
-    square(5);	
-}
-function square(x){
-    var squared = x*x;
-    return squared;
-}
